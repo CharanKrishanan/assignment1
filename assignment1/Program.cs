@@ -16,6 +16,7 @@ namespace assignment1
             Console.WriteLine("enter a");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter b");
+            Console.WriteLine("added a comment");
             b = Convert.ToInt32(Console.ReadLine());
             int temp = a;
             a = b;
